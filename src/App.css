@@ -1,0 +1,29 @@
+.App{
+    text-align: center;
+}
+.nav{
+    background-color: red;
+    color: white;
+    padding: 1rem;
+    display: flex;
+   justify-content: center;
+   margin-bottom: 2rem;
+}
+
+.card{
+    display: inline-block;
+    border: 1px solid black;
+    margin: 1rem;
+}
+.card-header{
+    background-color: blue;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0.7rem 0.5rem;
+}
+.card-content{
+  padding: 1rem;  
+
+}
